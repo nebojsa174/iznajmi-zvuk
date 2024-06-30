@@ -168,9 +168,21 @@
                         <input type="email" name="email" placeholder="Email" class="order__input">
                         <input type="text" name="contact" placeholder="Kontakt telefon" class="order__input">
                         <input type="text" name="address" placeholder="Adresa" class="order__input">
-                        <label for="">Kada vam je potreban zvučnik?</label>
-                        <input type="date" name="date" id="dateInput" class="order__input"/>
-                        <input type="time" name="time" id="timeInput" class="order__input"/>
+                        <label for="" style="padding-bottom: 10px;">Kada vam je potreban zvučnik?</label>
+                        <label for="">Datum: </label>
+                        <input type="date" name="date" id="dateInput" class="order__input" 
+                            style="display: flex;
+                                   position: relative;
+                                   top: -3rem;
+                                   right: -70px; 
+                                   width: 150px;
+                                   ;"/>
+                        <label for="" style="margin-top: -40px;">Vreme: </label>
+                        <input type="time" name="time" id="timeInput" class="order__input"
+                            style="position: relative;
+                            top: -3rem;
+                            right: -70px; 
+                            width: 150px;"/>
                         <button type="submit" name="submit" class="button button--flex">
                             <i class="ri-shopping-bag-line button__icon"></i> Iznajmi
                         </button>
