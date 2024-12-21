@@ -1,6 +1,6 @@
-# Foodie - Responsive Web Application
+# Iznajmi zvuk - Responsive Web Application
 
-Foodie is a fully responsive web application, responsive for all devices, built using HTML, CSS, JavaScript and PHP.
+**EN** Iznajmi zvuk is a fully responsive web application, responsive for all devices, built using HTML, CSS and JavaScript.
 
 ### Demo Screeshots
 
