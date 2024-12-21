@@ -4,4 +4,4 @@ Iznajmi zvuk is a web application through which you can rent a speaker. It is bu
 
 ### Demo Screeshots
 
-![Foodie Demo](./assets/img/project_iznajmi_zvuk "Desktop Demo")
+![Iznajmi Zvuk](./assets/img/project_iznajmi_zvuk.png "Iznajmi Zvuk Demo")
